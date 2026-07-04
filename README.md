@@ -11,15 +11,15 @@ brought to you by the same person who thinks semicolons are optional and tabs ar
 
 #### `$ languages`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e0a964)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e0a964)
-![Lua](https://img.shields.io/badge/Lua-1a1a2e?style=for-the-badge&logo=lua&logoColor=e0a964)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e0a964)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e0a964)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/Lua-1a1a2e?style=for-the-badge&logo=lua)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3)
 
 #### `$ uptime`
 
-![bread](https://img.shields.io/badge/bread-online-a0d5e8?style=flat-square)
+![bread](https://img.shields.io/badge/bread-online-a0d5e8?style=flat-square&labelColor=1a1a2e&logo=github)
 
 my brain is a distributed system with eventual consistency.
 
