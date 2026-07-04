@@ -1,30 +1,30 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/breadybread123/breadybread123/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/breadybread123/breadybread123/main/assets/header-light.svg">
-</picture>
+## hey, i'm bread 🥖
 
-a loaf of code, a pinch of chaos. i write things that compile (sometimes).
+i make stuff with code. websites, tools, random experiments — if it compiles, it ships.
 
-#### `$ whoami`
+```
+function me() {
+  return {
+    languages: ["JavaScript", "Python", "Lua", "HTML", "CSS"],
+    motto: "it worked on my machine"
+  }
+}
+```
 
-brought to you by the same person who thinks semicolons are optional and tabs are superior.
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=a0d5e8)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=a0d5e8)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=lua&logoColor=a0d5e8)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=a0d5e8)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=a0d5e8)
 
-#### `$ languages`
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=a0d5e8)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=a0d5e8)
-![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=a0d5e8)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a0d5e8)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=a0d5e8)
+### currently
 
-#### `$ uptime`
+building things, breaking things, learning things.
 
-![bread](https://img.shields.io/badge/bread-online-a0d5e8?style=flat-square&labelColor=000000)
+### find me
 
-my brain is a distributed system with eventual consistency.
+[![GitHub](https://img.shields.io/badge/breadybread123-000000?style=flat-square&logo=github&logoColor=a0d5e8)](https://github.com/breadybread123)
 
-<br>
-
-<p align="center">
-  <sub>🍞 baked with love (and questionable code)</sub>
-</p>
+<sub>🍞 fresh out the oven</sub>
